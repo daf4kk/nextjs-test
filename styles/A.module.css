@@ -1,0 +1,7 @@
+/* Для стилей под конкретный компонент название файла должно быть: componentName.module.css */
+.link{
+    font-size: 24px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+}
